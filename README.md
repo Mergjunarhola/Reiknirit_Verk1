@@ -4,15 +4,15 @@
 oft gerir maður sauðakóða áður en maður byrjar að forrita til að fá betri skilning á dæminu og brjóta það niður.
 
 2.
-def tíuí2(tíutala):
-   ef tíutala deilanleg með 2:
-      utkoma = "0"
-   ef tíutala ekki deilanleg með 2:
-      utkoma = "1"
-   ef tíutala minna en 2:
-      return utkoma
-   ef tíutala meira en 1:
-      return tíuí2(tíutala//2)+utkoma
+>def tíuí2(tíutala):
+>   ef tíutala deilanleg með 2:
+>      utkoma = "0"
+>   ef tíutala ekki deilanleg með 2:
+>      utkoma = "1"
+>   ef tíutala minna en 2:
+>      return utkoma
+>   ef tíutala meira en 1:
+>      return tíuí2(tíutala//2)+utkoma
       
       
 ég veit þetta er ekki fallegur sauðakóði. ég er persónulega ekki góður í því að gera hann
